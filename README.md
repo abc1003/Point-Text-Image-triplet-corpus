@@ -1,2 +1,3 @@
 # Point-Text-Image-triplet-corpus
+![datasets](https://github.com/user-attachments/assets/fc9ca4d6-521b-4fb2-826b-5453c485ce17)
 we propose a rapid and efficient method to expand an unimodal framework into a multimodal framework.This approach incorporates a position-aware module designed to enhance the spatial information of the missing parts through a weighted map learning mechanism.In addition, we establish a Point-Text-Image triplet corpus PCN-TI and MVP-TI based on the existing unimodal point cloud completion dataset and use the pre-trained vision-language model CLIP to provide richer detail information for 3D shapes, thereby enhancing performance.
