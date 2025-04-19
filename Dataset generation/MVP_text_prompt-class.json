@@ -1,0 +1,18 @@
+{
+    "airplane": "There is a airplane point cloud projection map.",
+    "cabinet": "There is a cabinet point cloud projection map.",
+    "car": "There is a car point cloud projection map.",
+    "chair": "There is a chair point cloud projection map.",
+    "lamp": "There is a lamp point cloud projection map.",
+    "sofa": "There is a sofa point cloud projection map.",
+    "table": "There is a table point cloud projection map.",
+    "watercraft": "There is a watercraft point cloud projection map.",
+    "bed": "There is a bed point cloud projection map.",
+    "bench": "There is a bench point cloud projection map.",
+    "bookshelf": "There is a bookshelf point cloud projection map.",
+    "bus": "There is a bus point cloud projection map.",
+    "guitar": "There is a guitar point cloud projection map.",
+    "motorbike": "There is a motorbike point cloud projection map.",
+    "pistol": "There is a pistol point cloud projection map.",
+    "skateboard": "There is a skateboard point cloud projection map."
+}

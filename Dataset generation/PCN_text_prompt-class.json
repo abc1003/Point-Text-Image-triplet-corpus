@@ -1,0 +1,10 @@
+{
+    "airplane": "There is a airplane point cloud projection map.",
+    "cabinet": "There is a cabinet point cloud projection map.",
+    "car": "There is a car point cloud projection map.",
+    "chair": "There is a chair point cloud projection map.",
+    "lamp": "There is a lamp point cloud projection map.",
+    "sofa": "There is a sofa point cloud projection map.",
+    "table": "There is a table point cloud projection map.",
+    "watercraft": "There is a watercraft point cloud projection map."
+}
