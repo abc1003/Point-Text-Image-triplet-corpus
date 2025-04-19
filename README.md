@@ -34,10 +34,13 @@ Our code is inspired by [PointCLIP](https://github.com/ZrrSkywalker/PointCLIP) a
 ## Citation
 If you find our work useful in your research, please consider citing: 
 ```
-@inproceedings{yu2021pointr,
-  title={PoinTr: Diverse Point Cloud Completion with Geometry-Aware Transformers},
-  author={Yu, Xumin and Rao, Yongming and Wang, Ziyi and Liu, Zuyan and Lu, Jiwen and Zhou, Jie},
-  booktitle={ICCV},
-  year={2021}
+@misc{zhou2024positionawareguidedpointcloud,
+      title={Position-aware Guided Point Cloud Completion with CLIP Model}, 
+      author={Feng Zhou and Qi Zhang and Ju Dai and Lei Li and Qing Fan and Junliang Xing},
+      year={2024},
+      eprint={2412.08271},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2412.08271}, 
 }
 ```
