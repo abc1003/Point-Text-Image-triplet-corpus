@@ -1,4 +1,5 @@
-#  Position-aware Guided Point Cloud Completion with CLIP Model
+#  (AAAI'25)Position-aware Guided Point Cloud Completion with CLIP Model 
+[arXiv](https://arxiv.org/abs/2412.08271)
 
 we propose a rapid and efficient method to expand an unimodal framework into a multimodal framework.This approach incorporates a position-aware module designed to enhance the spatial information of the missing parts through a weighted map learning mechanism.In addition, we establish a Point-Text-Image triplet corpus PCN-TI and MVP-TI based on the existing unimodal point cloud completion dataset and use the pre-trained vision-language model CLIP to provide richer detail information for 3D shapes, thereby enhancing performance.
 
@@ -16,7 +17,7 @@ we propose a rapid and efficient method to expand an unimodal framework into a m
 - open3d
 - tensorboardX
 
-Dependent on backbone network
+It depends on the environment of the network model you are using.
 
 
 ### Our Point-Text-Image-triplet-corpus Dataset
