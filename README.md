@@ -23,20 +23,20 @@ Dependent on backbone network
 
 | dataset  | url|
 | --- | --- |
-| PCN-TI | [Quark](https://pan.quark.cn/s/20c69b4d2f69)  |
-| MVP-TI | [Quark](https://pan.quark.cn/s/20c69b4d2f69) |
+| PCN-TI | [QuarkPan](https://pan.quark.cn/s/20c69b4d2f69)  |
+| MVP-TI | [QuarkPan](https://pan.quark.cn/s/20c69b4d2f69) |
 
-## Project Structure 🗂️
-root/
-├── Dataset generation #MVP&PCN
-│ 
-├── examples #Using the model samples from the dataset we generated
-│ 
-└── utils/clip #CLIP files required to generate the dataset
+## Project Structure 
+- root/
+- ├── Dataset generation   # MVP&PCN
+- │ 
+- ├── examples   # Using the model samples from the dataset we generated
+- │ 
+- └── utils/clip   # CLIP files required to generate the dataset
 
 ## Acknowledgements
 
-Our code is inspired by [PointCLIP](https://github.com/ZrrSkywalker/PointCLIP) and [PoinTr/AdaPointr](https://github.com/yuxumin/PoinTr).
+Our code is inspired by [PointCLIP](https://github.com/ZrrSkywalker/PointCLIP) .
 
 ## Citation
 If you find our work useful in your research, please consider citing: 
